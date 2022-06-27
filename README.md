@@ -1,5 +1,5 @@
 # CONCAPAN-2022-Topic-Modelling
-Results for the CONCAPAN 2022 paper named Using Topic Modelling for Analyzing Panamanian Parliamentary Proceedings with Neural and Statistical:
+The following results for the IEEE CONCAPAN 2022 paper are provided:
 - Interactive plots for the Dynamic Topic Modelling algorithm with BERTopic.
 - Topic Inter-distance plot.
 - BERTOpic Topic-word plot.
