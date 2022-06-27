@@ -1,5 +1,5 @@
 # IEEE CONCAPAN Conference
-The following results for the IEEE CONCAPAN 2022 paper are provided:
+The following paper results are provided:
 - Interactive plots for the Dynamic Topic Modelling algorithm with BERTopic.
 - Topic Inter-distance plot.
 - BERTopic Topic-word plot.
